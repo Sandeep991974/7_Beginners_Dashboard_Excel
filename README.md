@@ -1,4 +1,4 @@
-# 📊 Excel Dashboard Portfolio
+# 📊 Excel Dashboard 
 
 This repository contains a collection of **beginner-friendly Excel dashboards** created to practice data analysis, data visualization, and dashboard designing skills using Microsoft Excel.
 
